@@ -1,0 +1,23 @@
+{
+    "series": "Q11598",
+    "episode_description": "Arrested Development episode",
+    "seasons": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Arrested_Development_(season_1)",
+            "item_id": "Q3727623"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Arrested_Development_(season_2)",
+            "item_id": "Q3727622"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Arrested_Development_(season_3)",
+            "item_id": "Q3727624"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Arrested_Development_(season_4)",
+            "item_id": "Q13360173"
+
+        }
+    ]
+}

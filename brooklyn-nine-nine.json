@@ -1,0 +1,26 @@
+{
+    "series": "Q13417244",
+    "episode_description": "Brooklyn Nine-Nine episode",
+    "seasons": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine_(season_1)",
+            "item_id": "Q16674926"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine_(season_2)",
+            "item_id": "Q18706983"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine_(season_3)",
+            "item_id": "Q21152420"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine_(season_4)",
+            "item_id": "Q28604494"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine_(season_5)",
+            "item_id": "Q39072362"
+        }
+    ]
+}
